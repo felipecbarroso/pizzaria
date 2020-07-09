@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://s1.1zoom.me/b6049/920/Pizza_Cheese_Piece_540633_1920x1080.jpg);
+    color: blanchedalmond;
+}
+#title{
+    text-align: center;
+    font-size: 40pt;
+    padding: 0px;
+}
+#conteudo{
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 180px;
+}
